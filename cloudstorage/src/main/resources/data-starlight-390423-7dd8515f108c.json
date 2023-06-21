@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "data-starlight-390423",
+  "private_key_id": "7dd8515f108c48afcf116172fba0555336e54129",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDGC6Kl9baZqgV5\n5hd058oqqzs2zcqQ5lB9Prd661IY0uB6uGyG64MNTZXPm/XlD6Z9eQFOGcWRwGiI\n0lHASPE5u9DGGQW3seGPHRLOB4OMzBj9jln901LrySok2Lf8zRk7iz2WR3tT5Iph\nVsqWv12xQyB8ELI+qVOu+bns/Ia63vd9ndKV9VQALSAnn9i7UeqIb3vs0Z+rt43M\njFaNQ+vWAFIkveByyuA+rFz9cpTZhyQqKaY9J5tkJSrHIVzGOSL5XZGtb4r1S+O7\nlzilyTCpLfjNfzNQPXxqos3lQxCt7rTSsEV4NNODGYsuJSKD7YLuYxpDTnSqKEbE\n+lEMhyBDAgMBAAECggEAX9mIxia2Uge6L8WfK6r1KxKFjaAq/lchtIQynBChQrdp\nAqwYhnIckscujvTOHScmboquiYSqnMCRN0sHWvdSnJ0cTYwVutKiNrgc/k8fqXis\nTadkQZdSBiDtvziOT5FaOXnJ/F4rP66YFMVDNpN2vpCc+76+7dnY0RI3HI4ZjP37\nnlNp0ixVY5eLQOhxwK/fwzZP3zqRkj3sM/2dl5u9suUsXVc8c+F6OrNDqch+H2ub\nXZGGsXP0thI+A4OUeakQiBGf7sxRDOHMxlt6vGLQMRo9sY08xS3aJ0LUo3AOM8gJ\nl10Jm3i9yOwik/BkVvDY+ItXr6qi+OXLGHuHducSJQKBgQDoOuDDzfJDcHvpdzg3\nAyzsfwkOEZ9typtbw0+wBUTR3R3b6Ct2jQ3THcAGmbbMpnenbbLsNHKCIs8SZWJ7\nkA3Pb5mHGDLD9Uu/EgMl0zIRJP0rYGMytd5tftsEjcLrX9sViNZM7kNLWXwqUfqk\nbwCQMBBVAfjjBKBMpif/oxDL7QKBgQDaUQUXGQcE2+QeYS6sYlMVCdK/1DostRU3\n8NLX07xwynUMnpCuGK7l3Jw86LfXESLgIhc0TT/KFSC2hNViw+2Oso80W+xY1lr8\nLlkstiCm/ij9yhBK8x+CMrya3N9NOsCzqRWME56sRVjslq7YuXWfjGfbslFMWk6r\nQJ0jfQ/27wKBgB1fPQhm5upSsslvk8OZejgbRSjrX6/CPW4YwN5xfCfTALDMp5qh\n8oquK5hqHq25rE6X2FZ5t7Xv8yLPgepA6Q5AfjmQ/PK99que+pjxIlb6x66RzVof\nmJdewRLNX0bn48zQdtJaHFbOZZ7wqXPcukSCX75wtmr4LdIj/dEebcRtAoGAVIuz\n0PIcScFuYmV4UcHyMt+PAkMKFG48PWHCBVs2Sufc1HpDxWhBszrwNpZZO6yjOPF6\n0wJnhbcQ6B4hFRKTWQPFeZ1vtietLKQ2XJ5bntAmx8IM9TmaJi3H5KFMyPfL0MfW\nVFz0wfpJKbZhGAUajCMvxWEVIuCGPsPTFv9Dw3kCgYBNQP/HWq3pAQvq5gAGbnoC\ngV+x0wLb4UCMmm0qvlweK14yuDGe66lv+muS8SWp35yWt8cqFeOjC3B6/u8jsWka\nA4s3u+9SBi+k5hveEKZQ24HHX9xOtoFdsQyxiYK9W8BF+ZMVyBNYSutC53qYU2R8\nh/WSim+ga+qobeWfOBVDwA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bucketcloud@data-starlight-390423.iam.gserviceaccount.com",
+  "client_id": "117436637994636649276",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bucketcloud%40data-starlight-390423.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
